@@ -9,7 +9,7 @@ An application that generates C header files.
 - [Works in Progress](#works-in-progress)
 
 ## Features
-![UI Screenshot](/../main/readme-screenshots/UI.png)
+![UI Screenshot](/../master/readme-screenshots/UI.png)
 
 - Simple, easy to navigate, Graphical User Interface.
 - Easy to import functions and imports from .c file.
