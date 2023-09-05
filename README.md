@@ -1,6 +1,8 @@
 # HeaderCreator
 An application that generates C header files.
 
+### **This project has been archived and is no longer in development.**
+
 ## Table of Contents
 - [Features](#features)  
 - [Technologies](#technologies)  
